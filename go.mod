@@ -1,4 +1,4 @@
-module robot
+module github.com/piaodazhu/robot
 
 go 1.20
 
