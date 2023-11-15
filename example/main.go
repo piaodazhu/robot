@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/piaodazhu/robot"
+	
 	"time"
 
+	"github.com/piaodazhu/robot"
 	"github.com/sirupsen/logrus"
 )
 
